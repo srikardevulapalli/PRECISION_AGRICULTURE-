@@ -1,4 +1,8 @@
 # PRECISION_AGRICULTURE
+
+Link to Publication:
+https://ieeexplore.ieee.org/document/8554601
+
 The project work is based on the usage of  precision agriculture system which is a technique used in farming to observe, measure and respond to various factors in crops using Cyber Physical system, which involves monitoring system using IoT model and an actuator. Rapid socio-economic changes in some developing countries, including India, are creating new scopes for application of precision agriculture. The implications of dramatic shifts for economic development, urbanization and energy consumption in some developing countries are immense. This precision agriculture based on Cyber Physical system (PACPS) is developed to facilitate constant monitoring of the water       requirements in plants and thereby provides automated water supply which considerably         decreases the physical labor cost, it also enables a constant nourishment to plant, reducing soil erosion. This system also provides data set to user which facilitates to perform further analysis of data.
 CHAPTER 1
                        INTRODUCTION
